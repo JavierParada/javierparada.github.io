@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor
+role: Director de Programas Prioritarios y Acciones Estratégicas
 
 # Organizations/Affiliations to show in About widget
 organizations:
