@@ -1,9 +1,9 @@
 ---
-title: Noviembre 2024
-weight: 2
+title: Octubre 2024
+weight: 1
 ---
 
-El INEGI publica la información del INPC cada quincena y de manera mensual. En esta nota resumimos la información publicada para noviembre de 2024. 
+El INEGI publica la información del INPC cada quincena y de manera mensual. En esta nota resumimos la información publicada para octubre de 2024. 
 
 ## Cebolla
 
