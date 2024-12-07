@@ -1,5 +1,5 @@
 ---
-title: Project Structure
+title: Inflación
 weight: 1
 ---
 
