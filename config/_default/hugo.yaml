@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Javier Parada" # Website name
-baseURL: 'https://example.com/' # Website URL
+baseURL: 'https://javierparada.github.io' # Website URL
 
 ############################
 ## PAGE OPTIONS
@@ -42,7 +42,7 @@ cascade:
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: es
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
