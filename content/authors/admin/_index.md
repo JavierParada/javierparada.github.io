@@ -25,7 +25,7 @@ organizations:
     url: https://www.gob.mx/agricultura/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Mis intereses de investigación incluyen la economía agrícola, los mercados agropecuarios y el desarrollo rural sostenible.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
