@@ -4,33 +4,32 @@ date: 2024-02-17
 weight: 1
 ---
 
-## Quick Start from Template
+## 
+
+El Repositorio de Estudios sobre Productos Agropecuarios es una plataforma digital dedicada a la recopilación, organización y difusión de investigaciones relacionadas con el sector agropecuario. Este repositorio busca ser un recurso accesible y confiable para investigadores, productores, académicos y formuladores de políticas interesados en el análisis y desarrollo sostenible de productos agrícolas y pecuarios. Al centralizar estudios técnicos, económicos y sociales, promueve la generación de conocimiento y fomenta la innovación en el sector, contribuyendo al fortalecimiento de las cadenas productivas y al bienestar de las comunidades rurales.
+
+
+## Example
 
 {{% steps %}}
 
-### Initialize a new site
+### Acceso a estudios relevantes
 
-[Click to copy the template on GitHub](https://github.com/new?template_name=theme-documentation&template_owner=HugoBlox)
+Reúne investigaciones actualizadas sobre producción agrícola, ganadería, sostenibilidad, mercados y políticas agropecuarias.
 
-### Configure your new site
+### Promoción del desarrollo sostenible
 
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
+Difunde conocimientos que pueden mejorar prácticas productivas y fomentar la innovación.
 
-### Add your content
+### Apoyo en la toma de decisiones
 
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
+Proporciona datos clave que respaldan la formulación de estrategias y políticas públicas eficaces.
 
-### Publish your site
+### Fomento de la colaboración
 
-[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
+Conecta a diferentes actores del sector para compartir información y generar sinergias en pro del desarrollo agropecuario.
 
 {{% /steps %}}
 
-## Next
 
-Let's customize your new site:
 
-{{< cards >}}
-  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
-{{< /cards >}}
