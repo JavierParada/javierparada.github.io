@@ -1,9 +1,9 @@
 ---
-title: Inflación
-weight: 1
+title: Project Structure
+weight: 3
 ---
 
-## Folder Structure
+## Project Structure
 
 There are **4 main folders for Hugo-based sites**:
 
