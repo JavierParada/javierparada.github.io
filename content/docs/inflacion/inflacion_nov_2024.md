@@ -1,5 +1,5 @@
 ---
-title: Nota sobre inflación (Noviembre 2024)
+title: Noviembre 2024
 weight: 1
 ---
 
