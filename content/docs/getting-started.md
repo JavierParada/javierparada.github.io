@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Inicio
 date: 2024-02-17
 weight: 1
 ---
