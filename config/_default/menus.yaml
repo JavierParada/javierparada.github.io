@@ -5,7 +5,7 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Documentation
+  - name: Documentación
     url: docs/
     weight: 20
   - name: Blog
@@ -14,7 +14,7 @@ main:
   - name: Showcase
     url: showcase/
     weight: 40
-  - name: Community
+  - name: Comunidad
     url: community/
     weight: 50
 

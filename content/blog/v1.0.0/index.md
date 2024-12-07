@@ -1,5 +1,5 @@
 ---
-title: v1.0.0 Released!
+title: Blog Diciembre 2024!
 summary: Hugo v1.0.0 released. Download now and follow the guide to get started in 5 minutes!
 date: 2024-12-06
 authors:
