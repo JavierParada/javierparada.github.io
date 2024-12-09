@@ -19,7 +19,7 @@ A continuación, se muestra el comportamiento histórico de estos tres productos
 
 <iframe src="/lines.html" width="100%" height="500" style="border:none;"></iframe>
 
-Por este motivo, resulta fundamental analizar con detalle los acontecimientos recientes que pueden explicar el comportamiento actual de los precios de estos tres productos.
+Por este motivo, resulta fundamental analizar con detalle los acontecimientos recientes que pueden explicar el comportamiento actual de los precios de estos tres productos:
 
 {{< cards >}}
   {{< card url="cebolla" title="Cebolla" icon="card" >}}
