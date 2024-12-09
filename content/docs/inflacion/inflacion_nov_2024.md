@@ -9,6 +9,8 @@ En noviembre de 2024, los precios de algunos productos agrícolas mostraron un i
 
 <img src="/treemap.png" alt="demo" class="img-responsive" title="aaaa">
 
+<iframe src="/treemap_inpc_mensual.html" width="100%" height="500" style="border:none;"></iframe>
+
 ## Papaya
 
 <div class="flourish-embed" data-src="story/2704807"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/story/2704807/thumbnail" width="100%" alt="visualization" /></noscript></div>
