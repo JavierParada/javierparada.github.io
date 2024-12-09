@@ -8,6 +8,6 @@ En 2024, el precio del nopal en México ha registrado un notable incremento debi
 <div>
 <img src="/kde_plot_nopal.png" alt="demo" class="img-responsive" title="Precio Nopal">
 <p style="font-size: 12px; color: #666; text-align: right; margin-top: 5px;">
-        Fuente: Profeco Quién es Quién en los Precios (QQP).
+        Fuente: Profeco Quién es Quién en los Precios (QQP). Precio 1 kg de nopal sin espinas.
     </p>
 </div>

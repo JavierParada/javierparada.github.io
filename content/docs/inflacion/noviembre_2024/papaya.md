@@ -8,6 +8,6 @@ En 2024, el precio de la papaya en México ha experimentado aumentos significati
 <div>
 <img src="/kde_plot_papaya.png" alt="demo" class="img-responsive" title="Precio Papaya">
 <p style="font-size: 12px; color: #666; text-align: right; margin-top: 5px;">
-        Fuente: Profeco Quién es Quién en los Precios (QQP).
+        Fuente: Profeco Quién es Quién en los Precios (QQP). Precio 1 kg de papaya Maradol. 
     </p>
 </div>
