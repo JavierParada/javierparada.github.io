@@ -9,4 +9,4 @@ En términos generales, aunque México produce cebolla todo el año, las tempora
 
 Profeco Quién es Quién en los Precios (QQP)
 
-<img src="/kde_plot_cebolla.png" alt="demo" class="img-responsive" title="Precio Cebolla", source="Profeco Quién es Quién en los Precios (QQP)">
+<img src="/kde_plot_cebolla.png" alt="demo" class="img-responsive" title="Precio Cebolla" source="Profeco Quién es Quién en los Precios (QQP)">
