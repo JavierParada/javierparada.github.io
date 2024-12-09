@@ -13,6 +13,8 @@ En comparación con el mes de noviembre de 2023, los precios han aumentado para 
 
 <iframe src="/treemap_inpc_anual.html" width="100%" height="500" style="border:none;"></iframe>
 
+A continuación se presenta cuál ha sido el comportamiento histórico de estos tres productos a partir de la fecha base del INPC que es la segunda quincena de julio de 2018:
+
 <iframe src="/lines.html" width="100%" height="500" style="border:none;"></iframe>
 
 ## Papaya
