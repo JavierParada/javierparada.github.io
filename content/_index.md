@@ -11,7 +11,7 @@ sections:
   - block: hero
     content:
       title: Repositorio de Estudios sobre Productos Agropecuarios
-      text: Información detallada sobre productos agropecuarios y su dinámica en México 🌱
+      text: Información detallada sobre productos agropecuarios y su dinámica en México 🐓🍍🌱🌽🐮
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/details/docs/
