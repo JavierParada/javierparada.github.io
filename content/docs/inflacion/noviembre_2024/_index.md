@@ -3,17 +3,17 @@ title: Noviembre 2024
 weight: 2
 ---
 
-El INEGI publica la información del Índice Nacional de Precios al Consumidor (INPC) cada quincena y de manera mensual. En esta nota resumimos la información publicada el 9 de diciembre de 2024 que hace referencia a los cambios en precio percibidos en noviembre de 2024.
+El Instituto Nacional de Estadística y Geografía (INEGI) publica quincenal y mensualmente información relativa al Índice Nacional de Precios al Consumidor (INPC). En esta nota se sintetiza la información divulgada el 9 de diciembre de 2024, correspondiente a las variaciones de precios registradas en noviembre del mismo año.
 
-En noviembre de 2024, los precios de algunos productos agrícolas mostraron un incremento significativo. Entre los alimentos con mayores alzas destacan la **papaya**, con un incremento del **22.53%**, la **cebolla**, que subió **22.32%**, y los **nopales**, cuyo precio aumentó **18.58%** en comparación con el mes anterior.
+Durante noviembre de 2024, se observó un aumento significativo en los precios de diversos productos agrícolas. Entre los alimentos con mayores incrementos destacan la papaya, con una variación al alza del 22.53%; la cebolla, con un aumento del 22.32%; y los nopales, cuyo precio creció 18.58% en comparación con el mes previo.
 
 <iframe src="/treemap_inpc_mensual.html" width="100%" height="500" style="border:none;"></iframe>
 
-En comparación con el mes de noviembre de 2023, los precios han aumentado para **papaya** en **67.16%**, para **nopales** en **61.07%** y para cebolla en **51.04%**. 
+En comparación con noviembre de 2023, los precios han registrado un incremento del 67.16% en la papaya, del 61.07% en los nopales y del 51.04% en la cebolla.
 
 <iframe src="/treemap_inpc_anual.html" width="100%" height="500" style="border:none;"></iframe>
 
-A continuación se presenta cuál ha sido el comportamiento histórico de estos tres productos a partir de la fecha base del INPC que es la segunda quincena de julio de 2018:
+A continuación, se muestra el comportamiento histórico de estos tres productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018:
 
 <iframe src="/lines.html" width="100%" height="500" style="border:none;"></iframe>
 
