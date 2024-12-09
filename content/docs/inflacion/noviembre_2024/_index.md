@@ -18,7 +18,7 @@ A continuación se presenta cuál ha sido el comportamiento histórico de estos 
 <iframe src="/lines.html" width="100%" height="500" style="border:none;"></iframe>
 
 {{< cards >}}
-  {{< card url="papaya" title="Papaya" icon="card" >}}
   {{< card url="cebolla" title="Cebolla" icon="card" >}}
   {{< card url="nopal" title="Nopales" icon="card" >}}
+  {{< card url="papaya" title="Papaya" icon="card" >}}
 {{< /cards >}}
