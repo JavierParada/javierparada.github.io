@@ -7,8 +7,6 @@ El INEGI publica la información del INPC cada quincena y de manera mensual. En 
 
 En noviembre de 2024, los precios de algunos productos agrícolas mostraron un incremento significativo. Entre los alimentos con mayores alzas destacan la **papaya**, con un incremento del 22.53%, la **cebolla**, que subió 22.32%, y los **nopales**, cuyo precio aumentó 18.57% en comparación con el mes anterior.
 
-<img src="/treemap.png" alt="demo" class="img-responsive" title="aaaa">
-
 <iframe src="/treemap_inpc_mensual.html" width="100%" height="500" style="border:none;"></iframe>
 
 ## Papaya
