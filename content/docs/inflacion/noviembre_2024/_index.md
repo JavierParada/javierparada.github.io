@@ -13,9 +13,13 @@ En comparación con noviembre de 2023, los precios han registrado un incremento 
 
 <iframe src="/treemap_inpc_anual.html" width="100%" height="500" style="border:none;"></iframe>
 
-A continuación, se muestra el comportamiento histórico de estos tres productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018:
+Dar seguimiento a los precios de productos como la papaya, los nopales y la cebolla es importante porque estos productos forman parte fundamental de la dieta de muchas familias en México. Su variación tiene implicaciones directas en la economía de los hogares, particularmente en los de menores ingresos, para quienes los alimentos representan una proporción significativa del gasto total.
+
+A continuación, se muestra el comportamiento histórico de estos tres productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018. En esta gráfica es posible ver que el aumento en los precios de estos productos es un fenómeno reciente.
 
 <iframe src="/lines.html" width="100%" height="500" style="border:none;"></iframe>
+
+Por este motivo, resulta fundamental analizar con detalle los acontecimientos recientes que pueden explicar el comportamiento actual de los precios de estos tres productos.
 
 {{< cards >}}
   {{< card url="cebolla" title="Cebolla" icon="card" >}}
