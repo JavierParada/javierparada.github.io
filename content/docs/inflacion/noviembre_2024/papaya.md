@@ -12,4 +12,3 @@ En 2024, el precio de la papaya en México ha experimentado aumentos significati
     </p>
 </div>
 
-<a href="https://www.profeco.gob.mx/precios/canasta/">link text</a>
