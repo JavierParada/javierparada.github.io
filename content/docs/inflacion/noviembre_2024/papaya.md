@@ -12,3 +12,6 @@ En 2024, el precio de la papaya en México ha experimentado aumentos significati
     </p>
 </div>
 
+En México, la papaya se produce principalmente en regiones cálidas y húmedas que ofrecen las condiciones climáticas ideales para su cultivo. El estado más destacados en la producción de papaya es Oaxaca.
+
+<div class="flourish-embed flourish-map" data-src="visualisation/20729982"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20729982/thumbnail" width="100%" alt="map visualization" /></noscript></div>
