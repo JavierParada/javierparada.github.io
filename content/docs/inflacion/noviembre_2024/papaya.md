@@ -22,4 +22,4 @@ El huracán John impactó la región sur de México en septiembre de 2024, afect
 
 ## Es un cambio de precio estacional?
 
-<iframe src="/descomposicion/descomposicionPapaya.html" width="100%" height="500" style="border:none;"></iframe>
+<iframe src="/descomposicion/descomposicionPapaya.html" width="100%" height="1000" style="border:none;"></iframe>
