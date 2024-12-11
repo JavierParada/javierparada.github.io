@@ -12,10 +12,12 @@ En 2024, el precio de la papaya en México ha experimentado aumentos significati
     </p>
 </div>
 
-##  Producción
+##  Distribución geográfica de la producción
 
 En México, la papaya se produce principalmente en regiones cálidas y húmedas que ofrecen las condiciones climáticas ideales para su cultivo. El estado más destacado en producción de papaya es Oaxaca.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/20729982"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20729982/thumbnail" width="100%" alt="map visualization" /></noscript></div>
 
 El huracán John impactó la región sur de México en septiembre de 2024, afectando severamente a Oaxaca, Guerrero y Michoacán.
+
+## Es un cambio de precio estacional?

@@ -12,7 +12,7 @@ En 2024, el precio de la cebolla en México ha alcanzado niveles récord. La Pro
     </p>
 </div>
 
-##  Producción
+##  Distribución geográfica de la producción
 
 En México, la cebolla blanca se produce en diversas regiones, pero el estado con la mayor producción es Chihuahua. 
 
@@ -26,5 +26,7 @@ El fenómeno del alza de precio puede explicarse, en parte, por la exposición d
         Fuente: CONAGUA (Monitor de Sequía en México) 
     </p>
 </div>
+
+## Es un cambio de precio estacional?
 
 
