@@ -21,3 +21,5 @@ En México, la papaya se produce principalmente en regiones cálidas y húmedas 
 El huracán John impactó la región sur de México en septiembre de 2024, afectando severamente a Oaxaca, Guerrero y Michoacán.
 
 ## Es un cambio de precio estacional?
+
+<iframe src="/descomposicion/descomposicionPapaya.html" width="100%" height="500" style="border:none;"></iframe>
