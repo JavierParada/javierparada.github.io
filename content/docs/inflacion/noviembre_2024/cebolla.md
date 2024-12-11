@@ -3,7 +3,7 @@ title: Cebolla
 linkTitle: Cebolla
 ---
 
-En 2024, el precio de la cebolla en México ha alcanzado niveles récord. La Profeco ha registrado precios de hasta más de $80 por kilo. Este aumento se atribuye a factores climáticos, como heladas y sequías, que redujeron la producción. Además, la demanda típica de fin de año y el alza en costos de producción y distribución agravaron la situación.
+En 2024, el precio de la cebolla en México ha alcanzado niveles récord. La Profeco ha registrado precios de hasta más de $80 por kilo. Este aumento se atribuye a factores climáticos, principalmente la sequía que ha reducido la producción en gran parte del país. 
 
 <div>
 <iframe src="/violin_cebolla.html" width="120%" height="600" style="border:none;"></iframe>
@@ -12,6 +12,7 @@ En 2024, el precio de la cebolla en México ha alcanzado niveles récord. La Pro
     </p>
 </div>
 
+##  Producción
 
 En México, la cebolla blanca se produce en diversas regiones, pero el estado con la mayor producción es Chihuahua. 
 

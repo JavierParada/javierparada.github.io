@@ -12,6 +12,7 @@ En 2024, el precio del nopal en México ha registrado un notable incremento debi
     </p>
 </div>
 
+##  Producción
 
 En México, los nopales comestibles se producen ampliamente. Morelos y el Estado de México tienen una producción importante, así como Milpa Alta en la Ciudad de México. 
 
