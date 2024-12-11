@@ -3,7 +3,7 @@ title: Papaya
 linkTitle: Papaya
 ---
 
-En 2024, el precio de la papaya en México ha experimentado aumentos significativos debido a diversos factores. En octubre, los precios de la papaya subieron un 15.28% mensual, alcanzando niveles altos en distintas regiones del país. Esto se atribuye principalmente a una oferta limitada y condiciones climáticas adversas que afectaron la producción en áreas clave. Además, los costos de transporte y la demanda regional también influyeron en esta alza.
+En 2024, el precio de la papaya en México ha experimentado aumentos significativos debido a diversos factores. Esto se atribuye principalmente a una oferta limitada y condiciones climáticas adversas que afectaron la producción en áreas clave.
 
 <div>
 <iframe src="/violin_papaya.html" width="120%" height="600" style="border:none;"></iframe>
@@ -12,6 +12,8 @@ En 2024, el precio de la papaya en México ha experimentado aumentos significati
     </p>
 </div>
 
-En México, la papaya se produce principalmente en regiones cálidas y húmedas que ofrecen las condiciones climáticas ideales para su cultivo. El estado más destacados en la producción de papaya es Oaxaca.
+En México, la papaya se produce principalmente en regiones cálidas y húmedas que ofrecen las condiciones climáticas ideales para su cultivo. El estado más destacado en producción de papaya es Oaxaca.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/20729982"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20729982/thumbnail" width="100%" alt="map visualization" /></noscript></div>
+
+El huracán John impactó la región sur de México en septiembre de 2024, afectando severamente a Oaxaca, Guerrero y Michoacán.
