@@ -29,7 +29,7 @@ El fenómeno del alza de precio puede explicarse, en parte, por la exposición d
 
 ## Es un cambio de precio estacional?
 
-<iframe src="/descomposicion/descomposicionCebolla.html" width="100%" height="800" style="border:none;"></iframe>
+<iframe src="/descomposicion/descomposicionCebolla.html" width="100%" height="1000" style="border:none;"></iframe>
 
 
 

@@ -20,4 +20,4 @@ En México, los nopales comestibles se producen ampliamente. Morelos y el Estado
 
 ## Es un cambio de precio estacional?
 
-<iframe src="/descomposicion/descomposicionNopales.html" width="100%" height="900" style="border:none;"></iframe>
+<iframe src="/descomposicion/descomposicionNopales.html" width="100%" height="1000" style="border:none;"></iframe>
