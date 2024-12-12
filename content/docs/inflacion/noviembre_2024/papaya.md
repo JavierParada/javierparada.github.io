@@ -20,6 +20,8 @@ En México, la papaya se produce principalmente en regiones cálidas y húmedas 
 
 El huracán John impactó la región sur de México en septiembre de 2024, afectando severamente a Oaxaca, Guerrero y Michoacán.
 
-## Es un cambio de precio estacional?
+### Estacionalidad del precio
+
+La estacionalidad del precio de la papaya en México está determinada por los ciclos de producción, factores climáticos y patrones de demanda.
 
 <iframe src="/descomposicion/descomposicionPapaya.html" width="100%" height="1000" style="border:none;"></iframe>

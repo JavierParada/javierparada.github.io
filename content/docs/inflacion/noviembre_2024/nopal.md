@@ -18,6 +18,8 @@ En México, los nopales comestibles se producen ampliamente. Morelos y el Estado
 
 <div class="flourish-embed flourish-map" data-src="visualisation/20730287"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20730287/thumbnail" width="100%" alt="map visualization" /></noscript></div>
 
-## Es un cambio de precio estacional?
+### Estacionalidad del precio
+
+La estacionalidad del precio de los nopales en México está determinada por los ciclos de producción, factores climáticos y patrones de demanda.
 
 <iframe src="/descomposicion/descomposicionNopales.html" width="100%" height="1000" style="border:none;"></iframe>

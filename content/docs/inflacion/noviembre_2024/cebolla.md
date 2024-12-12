@@ -27,7 +27,9 @@ El fenómeno del alza de precio puede explicarse, en parte, por la exposición d
     </p>
 </div>
 
-## Es un cambio de precio estacional?
+### Estacionalidad del precio
+
+La estacionalidad del precio de la cebolla en México está determinada por los ciclos de producción, factores climáticos y patrones de demanda.
 
 <iframe src="/descomposicion/descomposicionCebolla.html" width="100%" height="1000" style="border:none;"></iframe>
 
