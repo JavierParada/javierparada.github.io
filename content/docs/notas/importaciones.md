@@ -11,4 +11,6 @@ Los capítulos 1 al 24 son los que contienen la mayor parte de los productos agr
 
 <div class="flourish-embed flourish-table" data-src="visualisation/20847118"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20847118/thumbnail" width="100%" alt="table visualization" /></noscript></div>
 
+# Figura 1
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/20847575"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20847575/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
