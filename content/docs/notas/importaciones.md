@@ -10,3 +10,5 @@ La Tarifa de la Ley de los Impuestos Generales de Importación y de Exportación
 Los capítulos 1 al 24 son los que contienen la mayor parte de los productos agropecuarios: 
 
 <div class="flourish-embed flourish-table" data-src="visualisation/20847118"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20847118/thumbnail" width="100%" alt="table visualization" /></noscript></div>
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/20847575"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20847575/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
