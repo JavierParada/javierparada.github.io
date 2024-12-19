@@ -26,3 +26,7 @@ Los capítulos 1 al 24 son los que contienen la mayor parte de los productos agr
 ## Figure 4: Treemap Importaciones 2023
 
 <div class="flourish-embed flourish-hierarchy" data-src="visualisation/20862244"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20862244/thumbnail" width="100%" alt="hierarchy visualization" /></noscript></div>
+
+## Figure 5: Scatterplot
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/20879623"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20879623/thumbnail" width="100%" alt="scatter visualization" /></noscript></div>
