@@ -9,8 +9,8 @@ El año 2025 será crítico en términos de sequía para México.
 
 Intenta con esta tabla:
 
-| CLASIFICACION DE LA SEQUÍA DE ACUERDO AL MONITOR DE SEQUÍA |
-| ---------------------------------------------------------- |
+| CLASIFICACION DE LA SEQUÍA DE ACUERDO AL MONITOR DE SEQUÍA |    |
+| ---------------------------------------------------------- |    |
 | Anormalmente Seco                                          | D0 |
 | Sequía Moderada                                            | D1 |
 | Sequía Severa                                              | D2 |
