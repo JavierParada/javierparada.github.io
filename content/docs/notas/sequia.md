@@ -19,3 +19,6 @@ Intenta con esta tabla:
 | Sin Sequía                                                 |  |
 
 
+<iframe src="/mapa_sequias.html" width="100%" height="500" style="border:none;"></iframe>
+
+
