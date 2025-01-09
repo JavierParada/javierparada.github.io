@@ -5,7 +5,7 @@ weight: 1
 
 El <a href="https://smn.conagua.gob.mx/es/climatologia/monitor-de-sequia/monitor-de-sequia-en-mexico">Monitor de Sequía en México</a>, gestionado por el Servicio Meteorológico Nacional (SMN), proporciona información quincenal sobre las condiciones de sequía en el país. El monitor clasifica el nivel de sequía por municipio en categorías que van desde “Anormalmente seco” (D0) hasta “Sequía excepcional” (D4), permitiendo identificar la intensidad y extensión de este fenómeno en diversas regiones. 
 
-## Clasificación de la Intensidad de la Sequía de acuerdo al Monitor de Sequía de América del Norte (NADM):
+### Clasificación de la Intensidad de la Sequía de acuerdo al Monitor de Sequía de América del Norte (NADM):
 
 | Nivel de sequía    | Descripción |
 | -------- | ------- |
