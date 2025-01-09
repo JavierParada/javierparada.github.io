@@ -17,4 +17,8 @@ Clasificación de la Intensidad de la Sequía de acuerdo al Monitor de Sequía d
 
 <iframe src="/mapa_sequias.html" width="100%" height="500" style="border:none;"></iframe>
 
+## Mapa
+
+<div class="flourish-embed" data-src="story/2813206"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/story/2813206/thumbnail" width="100%" alt="visualization" /></noscript></div>
+
 
