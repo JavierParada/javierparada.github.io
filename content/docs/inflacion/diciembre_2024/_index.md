@@ -17,7 +17,7 @@ Dar seguimiento a los precios de productos como la uva y la sandía es important
 
 A continuación, se muestra el comportamiento histórico de estos tres productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018. En esta gráfica es posible ver que el aumento en los precios de estos productos es un fenómeno reciente.
 
-<iframe src="/lines.html" width="100%" height="500" style="border:none;"></iframe>
+<iframe src="/linesdic2024.html" width="100%" height="500" style="border:none;"></iframe>
 
 Por este motivo, resulta fundamental analizar con detalle los acontecimientos recientes que pueden explicar el comportamiento actual de los precios de estos productos.
 
