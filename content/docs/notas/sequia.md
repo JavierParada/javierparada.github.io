@@ -11,6 +11,12 @@ El Monitor de Sequía en México, gestionado por el Servicio Meteorológico Naci
 
 Clasificación de la Intensidad de la Sequía de acuerdo al Monitor de Sequía de América del Norte (NADM):
 
+| Month    | Savings |
+| -------- | ------- |
+| January  | $250    |
+| February | $80     |
+| March    | $420    |
+
 * Anormalmente Seco (D0): Se trata de una condición de sequedad, no es una categoría de sequía. Se presenta al inicio o al final de un periodo de sequía. Al inicio de un período de sequía: debido a la sequedad de corto plazo puede ocasionar el retraso de la siembra de los cultivos anuales, un limitado crecimiento de los cultivos o pastos y existe el riesgo de incendios. Al final del período de sequía: puede persistir déficit de agua, los pastos o cultivos pueden no recuperarse completamente.
 * Sequía Moderada (D1): Se presentan algunos daños en los cultivos y pastos; existe un alto riesgo de incendios, bajos niveles en ríos, arroyos, embalses, abrevaderos y pozos, se sugiere restricción voluntaria en el uso del agua.
 * Sequía Severa (D2): Probables pérdidas en cultivos o pastos, alto riesgo de incendios, es común la escasez de agua, se deben imponer restricciones en el uso del agua.
