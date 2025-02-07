@@ -17,6 +17,6 @@ El seguimiento a los precios de productos como el chayote, el plátano y el lim�
 
 A continuación, se presenta una gráfica que ilustra el comportamiento histórico de los precios de estos productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018. En esta visualización se puede apreciar que los incrementos en los precios de estos alimentos son un fenómeno reciente.
 
-<iframe src="/linesdic2024.html" width="100%" height="500" style="border:none;"></iframe>
+<iframe src="/linesene2025.html" width="100%" height="500" style="border:none;"></iframe>
 
 Los precios de la papaya, la cebolla y los nopales, que habían registrado incrementos importantes en meses anteriores, experimentaron una reducción significativa. 
