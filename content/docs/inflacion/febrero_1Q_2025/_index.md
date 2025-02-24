@@ -1,5 +1,5 @@
 ---
-title: Febrero de 2025 (Primera Quincena)
+title: Febrero 2025 (1a Quincena)
 weight: 5
 ---
 
