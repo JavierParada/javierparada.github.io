@@ -5,7 +5,7 @@ weight: 5
 
 El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 24 de febrero de 2025, los cuales corresponden a las variaciones de precios observadas durante la primera quincena de febrero de 2025.
 
-En febrero de 2025, se registraron incrementos destacados en los precios de diversos productos agrícolas. Entre los alimentos con mayores aumentos se encuentran el chayote, con una variación mensual al alza del 20.37%, el plátano, con una variación mensual al alza del 16.51%, y el limón, cuyo precio aumentó un 10.15% respecto al mes anterior.
+En febrero de 2025, se registraron incrementos destacados en los precios de diversos productos agrícolas. Entre los alimentos con mayores aumentos se encuentran el plátano al alza un 5.74%, limón un 5.65% y huevo al 5.28%. 
 
 <iframe src="/treemap_inpc_quincenal_feb24.html" width="100%" height="500" style="border:none;"></iframe>
 
