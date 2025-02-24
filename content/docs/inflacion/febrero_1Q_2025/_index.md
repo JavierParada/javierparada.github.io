@@ -9,11 +9,11 @@ En febrero de 2025, se registraron incrementos destacados en los precios de dive
 
 <iframe src="/treemap_inpc_quincenal_feb24.html" width="100%" height="500" style="border:none;"></iframe>
 
-Mensual:
+El aumento mensual con respecto a la primera quincena de enero de 2025 fue el siguiente:
 
 <iframe src="/treemap_inpc_mensual_feb24.html" width="100%" height="500" style="border:none;"></iframe>
 
-Al comparar con febrero de 2024, se observa que los precios de estos productos han experimentado un incremento del 13.18% en el caso del chayote y un incremento del 6.76% en el caso del plátano. En el caso del limón, el precio ha bajado -20.38%.
+Al comparar con febrero de 2024, se observa que los precios de estos productos han experimentado un incremento del 15.17% en el caso del huevo y un incremento del 16.08% en el caso del plátano. En el caso del limón, el precio ha bajado -10.23%.
 
 <iframe src="/treemap_inpc_anual_feb24.html" width="100%" height="500" style="border:none;"></iframe>
 
