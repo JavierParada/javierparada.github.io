@@ -5,14 +5,23 @@ weight: 6
 
 El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 7 de marzo de 2025, los cuales corresponden a las variaciones de precios observadas durante el mes febrero de 2025.
 
-En febrero de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas. Entre los alimentos con mayores alzas destacan el plátano (5.74%), el limón (5.65%) y el huevo (5.28%).
+En febrero de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas. 
+
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento mensual importante en precios fueron: limón (16.31%), plátanos (14.05%), pera (5.94%), huevo (5.71%) y café tostado (4.35%). 
+
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción mensual importante en precios fueron: jitomate (-29.12%), nopales (-15.30%), sandía (-14.40%), cebolla (-14.17%) y ejotes (-9.72%).
 
 La inflación mensual con respecto a enero de 2025 fue la siguiente:
 
-
 <iframe src="/treemap_inpc_mensual_feb25.html" width="100%" height="500" style="border:none;"></iframe>
 
-En comparación con febrero de 2024, los precios de estos productos han mostrado variaciones significativas. El huevo ha registrado un aumento del 15.17%, mientras que el plátano ha subido un 16.08%. En contraste, el precio del limón ha disminuido un -10.23%.
+En comparación con febrero de 2024, los precios de algunos productos han mostrado variaciones significativas. 
+
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento anual importante en precios fueron: aguacate (38.13%), pera (30.55%), naranja (25.69%), papaya (19.47%) y plátanos (17.63%). 
+
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción anual importante en precios fueron: cebolla (-46.99%), pepino (-33.10%), jitomate (-31.45%), tomate verde (-23.53%) y ejotes (-20.33%). 
+
+La inflación anual con respecto a febrero de 2025 fue la siguiente:
 
 <iframe src="/treemap_inpc_anual_feb25.html" width="100%" height="500" style="border:none;"></iframe>
 
