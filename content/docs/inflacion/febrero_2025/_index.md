@@ -29,5 +29,5 @@ El monitoreo de los precios del huevo, el plátano y el limón es crucial debido
 
 A continuación, se presenta una gráfica que ilustra el comportamiento histórico de los precios de estos productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018. En esta visualización se puede apreciar que los incrementos recientes en los precios del huevo, el plátano y el limón son moderados en comparación con las alzas en precios que se han presentado en el pasado.
 
-<iframe src="/linesfeb_24_2025.html" width="100%" height="500" style="border:none;"></iframe>
+<iframe src="/linesfeb2025.html" width="100%" height="500" style="border:none;"></iframe>
 
