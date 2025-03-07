@@ -7,15 +7,14 @@ El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera qui
 
 En febrero de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas. Entre los alimentos con mayores alzas destacan el plátano (5.74%), el limón (5.65%) y el huevo (5.28%).
 
-<iframe src="/treemap_inpc_quincenal_feb24.html" width="100%" height="500" style="border:none;"></iframe>
+La inflación mensual con respecto a enero de 2025 fue la siguiente:
 
-La inflación mensual con respecto a la primera quincena de enero de 2025 fue la siguiente:
 
-<iframe src="/treemap_inpc_mensual_feb24.html" width="100%" height="500" style="border:none;"></iframe>
+<iframe src="/treemap_inpc_mensual_feb25.html" width="100%" height="500" style="border:none;"></iframe>
 
 En comparación con febrero de 2024, los precios de estos productos han mostrado variaciones significativas. El huevo ha registrado un aumento del 15.17%, mientras que el plátano ha subido un 16.08%. En contraste, el precio del limón ha disminuido un -10.23%.
 
-<iframe src="/treemap_inpc_anual_feb24.html" width="100%" height="500" style="border:none;"></iframe>
+<iframe src="/treemap_inpc_anual_feb25.html" width="100%" height="500" style="border:none;"></iframe>
 
 El monitoreo de los precios del huevo, el plátano y el limón es crucial debido a su importancia en la alimentación de muchas familias en México. Las fluctuaciones en sus costos afectan directamente la economía doméstica, especialmente en los hogares de menores ingresos, donde los alimentos representan una parte considerable del gasto total.
 
