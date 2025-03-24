@@ -5,7 +5,7 @@ weight: 7
 
 El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 24 de marzo de 2025, los cuales corresponden a las variaciones de precios observadas durante la primera quincena de marzo de 2025.
 
-Durante la primera quincena de marzo de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas. Entre los alimentos con mayores alzas destacan el plátano (5.74%), el limón (5.65%) y el huevo (5.28%).
+Durante la primera quincena de marzo de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas.
 
 Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: tomate verde (10.45%), limón (9.02%), calabacita (6.05%), guayaba (5.49%) y aguacate (4.25%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: chayote (-9.17%), cebolla (-6.04%), nopales (-5.58%), sandía (-4.98%) y piña (-3.83%). 
 
