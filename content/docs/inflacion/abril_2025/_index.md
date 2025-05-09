@@ -21,9 +21,9 @@ A continuación, se presenta la inflación anual correspondiente a abril de 2025
 
 <iframe src="/treemap_inpc_anual_abr25.html" width="100%" height="500" style="border:none;"></iframe>
 
-El monitoreo de los precios del huevo, el plátano y el limón es crucial debido a su importancia en la alimentación de muchas familias en México. Las fluctuaciones en sus costos afectan directamente la economía doméstica, especialmente en los hogares de menores ingresos, donde los alimentos representan una parte considerable del gasto total.
+El monitoreo de los precios del jitomate, el aguacate y el limón es crucial debido a su importancia en la alimentación de muchas familias en México. Las fluctuaciones en sus costos afectan directamente la economía doméstica, especialmente en los hogares de menores ingresos, donde los alimentos representan una parte considerable del gasto total.
 
-Finalmente, se presenta una gráfica que muestra el comportamiento histórico de los precios de estos productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018. En esta gráfica se puede apreciar que los incrementos recientes en los precios del limón, el plátano, la pera, el huevo y el café tostado son moderados en comparación con las alzas en precios que se han presentado en el pasado.
+Finalmente, se presenta una gráfica que muestra el comportamiento histórico de los precios de estos productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018. En esta gráfica se puede apreciar que los incrementos recientes en los precios del jitomate, el aguacate y el limón son moderados en comparación con las alzas en precios que se han presentado en el pasado.
 
-<iframe src="/linesmar2025.html" width="100%" height="500" style="border:none;"></iframe>
+<iframe src="/linesabr2025.html" width="100%" height="500" style="border:none;"></iframe>
 
