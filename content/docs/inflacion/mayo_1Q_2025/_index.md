@@ -32,6 +32,8 @@ weight: 10
 
 El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 22 de mayo de 2025, los cuales corresponden a las variaciones de precios observadas durante la primera quincena de mayo de 2025.
 
+<iframe src="/top5_aumentos_quincenales.html" width="100%" height="500" style="border:none;"></iframe>
+
 Durante la primera quincena de marzo de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas.
 
 Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: tomate verde (10.45%), limón (9.02%), calabacita (6.05%), guayaba (5.49%) y aguacate (4.25%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: chayote (-9.17%), cebolla (-6.04%), nopales (-5.58%), sandía (-4.98%) y piña (-3.83%). 
@@ -45,6 +47,8 @@ La inflación mensual con respecto a la primera quincena de febrero de 2025 fue 
 En comparación con marzo de 2024, los precios de estos productos han mostrado variaciones significativas. El huevo ha registrado un aumento del 14.66%, mientras que el plátano ha subido un 16.50%. 
 
 <iframe src="/treemap_inpc_anual_mar24.html" width="100%" height="500" style="border:none;"></iframe>
+
+
 
 El monitoreo de los precios del huevo, el tomate verde y el limón es crucial debido a su importancia en la alimentación de muchas familias en México. Las fluctuaciones en sus costos afectan directamente la economía doméstica, especialmente en los hogares de menores ingresos, donde los alimentos representan una parte considerable del gasto total.
 
