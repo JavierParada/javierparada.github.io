@@ -32,6 +32,8 @@ weight: 10
 
 El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 22 de mayo de 2025, los cuales corresponden a las variaciones de precios observadas durante la primera quincena de mayo de 2025.
 
+A continuación, se muestra una gráfica que representa la evolución histórica de los precios de los 5 productos con los mayores incrementos en la última quincena:
+
 <iframe src="/top5_aumentos_quincenales.html" width="100%" height="500" style="border:none;"></iframe>
 
 Durante la primera quincena de marzo de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas.
