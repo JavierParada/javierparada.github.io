@@ -1,10 +1,7 @@
 ---
-title: Mayo 2025 (1a Quincena)
+title: 📊 Reporte de Variación Quincenal - Índice de Precios
 weight: 10
 ---
-
-
-# 📊 Reporte de Variación Quincenal - Índice de Precios
 
 **Fecha más reciente:** Primera Quincena May 2025  
 **Base:** INPC, CCIF 2018 — Categoría: `01.1 Alimentos`
