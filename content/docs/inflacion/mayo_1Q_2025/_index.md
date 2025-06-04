@@ -38,23 +38,18 @@ A continuación, se muestra una gráfica que representa la evolución histórica
 
 Durante la primera quincena de marzo de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas.
 
-Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: tomate verde (10.45%), limón (9.02%), calabacita (6.05%), guayaba (5.49%) y aguacate (4.25%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: chayote (-9.17%), cebolla (-6.04%), nopales (-5.58%), sandía (-4.98%) y piña (-3.83%). 
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: papaya (16.25%), ejotes (11.38%), pollo (8.96%), guayaba (6.65%) y chayote (5.15%).
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: limón (-7.31%), calabacita (-3.96%), zanahoria (-2.60%), tomate verde (-2.29%) y otras frutas (-2.10%). 
 
 <iframe src="/mayo_25_quincenal.html" width="100%" height="500" style="border:none;"></iframe>
 
-La inflación mensual con respecto a la primera quincena de febrero de 2025 fue la siguiente:
+La inflación mensual con respecto a la primera quincena de abril de 2025 fue la siguiente:
 
 <iframe src="/mayo_25_mensual.html" width="100%" height="500" style="border:none;"></iframe>
 
-En comparación con marzo de 2024, los precios de estos productos han mostrado variaciones significativas. El huevo ha registrado un aumento del 14.66%, mientras que el plátano ha subido un 16.50%. 
+En comparación con mayo de 2024, los precios de los productos en rojo han mostrado variaciones significativas:
 
 <iframe src="/mayo_25_anual.html" width="100%" height="500" style="border:none;"></iframe>
 
-
-
-El monitoreo de los precios del huevo, el tomate verde y el limón es crucial debido a su importancia en la alimentación de muchas familias en México. Las fluctuaciones en sus costos afectan directamente la economía doméstica, especialmente en los hogares de menores ingresos, donde los alimentos representan una parte considerable del gasto total.
-
-A continuación, se presenta una gráfica que ilustra el comportamiento histórico de los precios de estos productos desde la fecha base del INPC, correspondiente a la segunda quincena de julio de 2018. En esta visualización se puede apreciar que los incrementos recientes en los precios del huevo, el tomate verde y el limón son moderados en comparación con las alzas en precios que se han presentado en el pasado.
-
-<iframe src="/linesmar_24_2025.html" width="100%" height="500" style="border:none;"></iframe>
+El monitoreo de estos productos es crucial debido a su importancia en la alimentación de muchas familias en México. Las fluctuaciones en sus costos afectan directamente la economía doméstica, especialmente en los hogares de menores ingresos, donde los alimentos representan una parte considerable del gasto total.
 
