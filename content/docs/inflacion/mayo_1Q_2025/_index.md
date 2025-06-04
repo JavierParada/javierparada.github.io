@@ -36,7 +36,7 @@ A continuación, se muestra una gráfica que representa la evolución histórica
 
 <iframe src="/top5_aumentos_quincenales.html" width="100%" height="500" style="border:none;"></iframe>
 
-Durante la primera quincena de marzo de 2025, se observaron incrementos significativos en los precios de varios productos agrícolas.
+Durante la primera quincena de mayo de 2025, se observaron incrementos significativos en los precios de varios productos agropecuarios.
 
 Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: papaya (16.25%), ejotes (11.38%), pollo (8.96%), guayaba (6.65%) y chayote (5.15%).
 Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: limón (-7.31%), calabacita (-3.96%), zanahoria (-2.60%), tomate verde (-2.29%) y otras frutas (-2.10%). 
