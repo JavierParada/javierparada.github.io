@@ -12,25 +12,23 @@ weight: 10
 
 | Clave | Producto                     | % Variación |
 |-------|------------------------------|-------------|
-| 062   | Chayote                      | +12.92%     |
-| 070   | Jitomate                     | +6.49%      |
-| 057   | Uva                          | +4.64%      |
-| 073   | Papa y otros tubérculos      | +3.87%      |
-| 054   | Piña                         | +2.86%      |
-
-
+| 062   | Chayote ✅                    | +12.92%     |
+| 070   | Jitomate ✅                   | +6.49%      |
+| 057   | Uva ✅                        | +4.64%      |
+| 073   | Papa y otros tubérculos ✅    | +3.87%      |
+| 054   | Piña ✅                       | +2.86%      |
 
 ---
 
 ## 📉 Top 5 Mayores Caídas (%)
 
-| Clave | Producto             | % Variación |
-|-------|----------------------|-------------|
-| 067   | Ejotes               | −10.14%     |
-| 065   | Chile serrano        | −9.03%      |
-| 081   | Otros chiles frescos | −6.57%      |
-| 048   | Limón                | −6.21%      |
-| 060   | Calabacita           | −5.99%      |
+| Clave | Producto                  | % Variación |
+|-------|---------------------------|-------------|
+| 067   | Ejotes ✅                 | −10.14%     |
+| 065   | Chile serrano ✅          | −9.03%      |
+| 081   | Otros chiles frescos ✅   | −6.57%      |
+| 048   | Limón ✅                  | −6.21%      |
+| 060   | Calabacita ✅             | −5.99%      |
 
 El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 9 de junio de 2025, los cuales corresponden a las variaciones de precios observadas durante la segunda quincena de mayo de 2025.
 
