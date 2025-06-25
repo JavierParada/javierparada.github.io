@@ -29,23 +29,23 @@ weight: 10
 | 075   | Pepino           | -8.87%          |
 
 
-El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 9 de junio de 2025, los cuales corresponden a las variaciones de precios observadas durante la segunda quincena de mayo de 2025.
+El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 24 de junio de 2025, los cuales corresponden a las variaciones de precios observadas durante la primera quincena de junio de 2025.
 
 A continuación, se muestra una gráfica que representa la evolución histórica de los precios de los 5 productos con los mayores incrementos en la última quincena:
 
 <iframe src="/top5_aumentos_quincenales.html" width="100%" height="500" style="border:none;"></iframe>
 
-Durante la segunda quincena de mayo de 2025, se observaron incrementos significativos en los precios de varios productos agropecuarios.
+Durante la primera quincena de junio de 2025, se observaron incrementos significativos en los precios de varios productos agropecuarios.
 
-Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: chayote (12.92%), jitomate (6.49%), uva (4.64%), papa y otros tubérculos (3.87%) y piña (2.86%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: ejotes (-10.14%), chile serrano (-9.03%), otros chiles frescos (-6.57%), limón (-6.21%) y calabacita (-5.99%). 
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: zanahoria (8.20%), cereales en hojuelas (2.38%), lechuga y col (2.25%), otras verduras y legumbres (1.96%) y naranja (1.63%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: chile poblano (-13.24%), guayaba (-10.35%), chile serrano (-9.41%), papaya (-9.37%) y pepino (-8.87%). 
 
 <iframe src="/mayo_25_quincenal.html" width="100%" height="500" style="border:none;"></iframe>
 
-La inflación mensual con respecto a la segunda quincena de abril de 2025 fue la siguiente:
+La inflación mensual con respecto a la primera quincena de mayo de 2025 fue la siguiente:
 
 <iframe src="/mayo_25_mensual.html" width="100%" height="500" style="border:none;"></iframe>
 
-En comparación con mayo de 2024, los precios de los productos en rojo han mostrado variaciones significativas:
+En comparación con junio de 2024, los precios de los productos en rojo han mostrado variaciones significativas:
 
 <iframe src="/mayo_25_anual.html" width="100%" height="500" style="border:none;"></iframe>
 
