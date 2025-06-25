@@ -55,3 +55,12 @@ En comparación con junio de 2024, los precios de los productos en rojo han most
 
 El monitoreo de estos productos es crucial debido a su importancia en la alimentación de muchas familias en México. Las fluctuaciones en sus costos afectan directamente la economía doméstica, especialmente en los hogares de menores ingresos, donde los alimentos representan una parte considerable del gasto total.
 
+
+## Pecuarios 🐔
+
+|           |   Total |   01.1 Alimentos |   022 Pollo |   031 Huevo |   018 Carne de res |   017 Carne de cerdo |
+|:----------|--------:|-----------------:|------------:|------------:|-------------------:|---------------------:|
+| quincenal |    0.1  |            -0.19 |       -0.09 |       -0.45 |               0.71 |                 1.15 |
+| mensual   |    0.3  |             0.34 |        2.29 |       -0.15 |               1.59 |                 1.26 |
+| anual     |    4.51 |             4.91 |       12.62 |        6.95 |              17.8  |                10.73 |
+
