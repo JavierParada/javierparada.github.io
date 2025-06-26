@@ -56,7 +56,7 @@ En comparación con junio de 2024, los precios de los productos en rojo han most
 El monitoreo de estos productos es crucial debido a su importancia en la alimentación de muchas familias en México. Las fluctuaciones en sus costos afectan directamente la economía doméstica, especialmente en los hogares de menores ingresos, donde los alimentos representan una parte considerable del gasto total.
 
 
-## Productores Pecuarios 🐔🥚🐄 🐖
+## Productos Pecuarios 🐔🥚🐄 🐖
 
 <iframe src="/pecuarios_quincenales.html" width="100%" height="500" style="border:none;"></iframe>
 
