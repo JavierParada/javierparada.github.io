@@ -1,7 +1,13 @@
 ---
-title: SNIIM
+title: Márgenes de comercialización
 weight: 3
 ---
+
+Los márgenes de comercialización de productos agropecuarios representan la diferencia entre el precio que recibe el productor y el precio que paga el consumidor final. 
+
+En otras palabras, el margen de comercialización es un indicador de cuánto se incrementa el precio de un producto desde que sale del campo hasta que llega a la mesa del consumidor. Por ejemplo, si un productor de jitomate recibe 6 pesos por kilogramo y el consumidor lo compra en 18 pesos en el supermercado, el margen de comercialización es de 12 pesos. Este margen no representa únicamente ganancia, sino que incluye todos los costos operativos y logísticos involucrados en el proceso.
+
+## subtitle
 
 El <a href="https://www.economia-sniim.gob.mx/nuevo/">Sistema Nacional de Información e Integración de Mercados (SNIIM)</a> es un programa operado por la Secretaría de Economía del Gobierno de México. Su función principal es recopilar, procesar y difundir información sobre precios, condiciones de mercado y comercialización de bienes y productos en todo el país, con especial énfasis en alimentos y productos agropecuarios.
 
