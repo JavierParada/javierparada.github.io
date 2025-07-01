@@ -12,3 +12,5 @@ En contraste, el centro del país —que incluye entidades como Guanajuato, Quer
 Estas diferencias territoriales en los precios pueden observarse mediante análisis espaciales y visualizaciones como mapas de calor, que permiten identificar zonas de mayor y menor precio por producto. 
 
 <iframe src="/mapa_zanahoria_colorbar_fijo.html" width="100%" height="500" style="border:none;"></iframe>
+
+<a href="https://francisco-vag22.github.io/mapa_zanahoria_colorbar_fijo.html" target="_blank">Ver en pantalla completa</a>
