@@ -41,7 +41,7 @@ A continuación, se muestra una gráfica que representa la evolución histórica
 
 Durante la segunda quincena de junio de 2025, se observaron incrementos significativos en los precios de varios productos agropecuarios.
 
-Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: zanahoria (8.20%), cereales en hojuelas (2.38%), lechuga y col (2.25%), otras verduras y legumbres (1.96%) y naranja (1.63%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: chile poblano (-13.24%), guayaba (-10.35%), chile serrano (-9.41%), papaya (-9.37%) y pepino (-8.87%). 
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: zanahoria (8.44%), lechuga y col (5.34%), cebolla (3.72%), calabacita (3.66%) y jitomate (3.47%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: guayaba (-9.29%), uva (-8.92%), papaya (-7.34%), pepino (-6.84%) y chile poblano (-5.08%). 
 
 <iframe src="/mayo_25_quincenal.html" width="100%" height="500" style="border:none;"></iframe>
 
