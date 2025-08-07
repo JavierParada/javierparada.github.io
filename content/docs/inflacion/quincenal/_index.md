@@ -3,33 +3,33 @@ title: 📊 Reporte de Variación Quincenal - Índice de Precios
 weight: 10
 ---
 
-**Fecha más reciente:** Primera Quincena Julio 2025  
+**Fecha más reciente:** Segunda Quincena Julio 2025  
 **Base:** INPC, CCIF 2018 — Categoría: "01.1 Alimentos"
 
 ---
 
 ## 📈 Top 5 Mayores Aumentos (%)
 
-| Clave | Producto        | Variación (%) |
-|-------|-----------------|----------------|
-| 072   | Nopales         | 14.44%         |
-| 071   | Lechuga y col   | 8.71%          |
-| 062   | Chayote         | 6.09%          |
-| 051   | Naranja         | 4.42%          |
-| 060   | Calabacita      | 4.41%          |
+| Clave | Producto                    | Variación (%) |
+|:------|:----------------------------|---------------:|
+| 071   | Lechuga y col               |         10.60% |
+| 073   | Papa y otros tubérculos     |          5.83% |
+| 075   | Pepino                      |          5.66% |
+| 031   | Huevo                       |          5.03% |
+| 081   | Otros chiles frescos       |          2.70% |
 
 ## 📉 Top 5 Mayores Caídas (%)
 
-| Clave | Producto   | Variación (%) |
-|-------|------------|----------------|
-| 057   | Uva        | -11.96%        |
-| 067   | Ejotes     | -9.18%         |
-| 052   | Papaya     | -5.86%         |
-| 048   | Limón      | -5.73%         |
-| 047   | Guayaba    | -4.72%         |
+| Clave | Producto                        | Variación (%) |
+|:------|:--------------------------------|---------------:|
+| 062   | Chayote                         |        -12.93% |
+| 057   | Uva                             |         -5.42% |
+| 070   | Jitomate                        |         -5.11% |
+| 080   | Otras verduras y legumbres     |         -4.86% |
+| 045   | Aguacate                        |         -4.71% |
 
 
-El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 24 de julio de 2025, los cuales corresponden a las variaciones de precios observadas durante la primera quincena de julio de 2025.
+El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 7 de agosto de 2025, los cuales corresponden a las variaciones de precios observadas durante la segunda quincena de julio de 2025.
 
 A continuación, se muestra una gráfica que representa la evolución histórica de los precios de los 5 productos con los mayores incrementos en la última quincena:
 
@@ -39,9 +39,10 @@ A continuación, se muestra una gráfica que representa la evolución histórica
 
 <iframe src="/btm5_aumentos_quincenales.html" width="100%" height="500" style="border:none;"></iframe>
 
-Durante la primera quincena de julio de 2025, se observaron incrementos significativos en los precios de varios productos agropecuarios.
+Durante la segunda quincena de julio de 2025, se observaron incrementos significativos en los precios de varios productos agropecuarios.
 
-Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: nopales (14.44%), lechuga y col (8.71%), chayote (6.09%), naranja (4.42%) y calabacita (4.41%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: uva (-11.96%), ejotes (-9.18%), papaya (-5.86%), limón (-5.73%) y guayaba (-4.72%). 
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: lechuga y col (10.60%), papa y otros tubérculos (5.83%), pepino (5.66%), huevo (5.03%) y otros chiles frescos (2.70%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron:
+chayote (-12.93%), uva (-5.42%), jitomate (-5.11%), otras verduras y legumbres (-4.86%) y aguacate (-4.71%).
 
 <iframe src="/mayo_25_quincenal.html" width="100%" height="500" style="border:none;"></iframe>
 
@@ -62,8 +63,8 @@ El monitoreo de estos productos es crucial debido a su importancia en la aliment
 
 Los cambios porcentuales para los productos pecuarios son: 
 
-| Periodo   | Total | 01.1 Alimentos | 022 Pollo | 031 Huevo | 018 Carne de res | 017 Carne de cerdo |
-|-----------|-------|----------------|-----------|-----------|------------------|---------------------|
-| Quincenal |  0.15 |           0.21 |     -1.79 |      3.29 |             0.31 |               0.43 |
-| Mensual   |  0.31 |           0.31 |     -2.69 |      3.33 |             0.71 |               1.05 |
-| Anual     |  3.55 |           2.11 |      8.84 |      7.36 |            17.92 |               8.77 |
+| Periodo   |   Total |   01.1 Alimentos |   022 Pollo |   031 Huevo |   018 Carne de res |   017 Carne de cerdo |
+|:----------|--------:|-----------------:|------------:|------------:|-------------------:|---------------------:|
+| Quincenal |    0.07 |            -0.1  |       -2.8  |        5.03 |              -0.19 |                -0.01 |
+| Mensual   |    0.22 |             0.11 |       -4.54 |        8.49 |               0.12 |                 0.42 |
+| Anual     |    3.48 |             1.95 |        5.64 |       11.9  |              17.36 |                 4.35 |
