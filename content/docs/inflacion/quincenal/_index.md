@@ -3,33 +3,33 @@ title: 📊 Reporte de Variación Quincenal - Índice de Precios
 weight: 10
 ---
 
-**Fecha más reciente:** Primera Quincena Agosto 2025  
+**Fecha más reciente:** Segunda Quincena Agosto 2025  
 **Base:** INPC, CCIF 2018 — Categoría: "01.1 Alimentos"
 
 ---
 
 ## 📈 Top 5 Mayores Aumentos (%)
 
-| Clave | Producto       | Variación (%) |
-|-------|----------------|-------------|
-| 065   | Chile serrano  | 12.87       |
-| 048   | Limón          | 5.93        |
-| 072   | Nopales        | 5.23        |
-| 076   | Tomate verde   | 3.98        |
-| 052   | Papaya         | 3.80        |
+| Clave | Producto        | Variación (%) |
+|-------|-----------------|---------------|
+| 065   | Chile serrano   | 37.07%        |
+| 076   | Tomate verde    | 22.82%        |
+| 061   | Cebolla         | 8.57%         |
+| 054   | Piña            | 6.88%         |
+| 025   | Vísceras de res | 3.93%         |
 
 ## 📉 Top 5 Mayores Caídas (%)
 
-| Clave | Producto   | Variación (%) |
-|-------|------------|---------------|
-| 062   | Chayote    | -13.10        |
-| 070   | Jitomate   | -8.78         |
-| 055   | Plátanos   | -4.15         |
-| 057   | Uva        | -3.49         |
-| 078   | Zanahoria  | -2.78         |
+| Clave | Producto  | Variación (%) |
+|-------|-----------|---------------|
+| 062   | Chayote   | -6.12%        |
+| 045   | Aguacate  | -5.65%        |
+| 072   | Nopales   | -5.29%        |
+| 075   | Pepino    | -4.21%        |
+| 031   | Huevo     | -3.08%        |
 
 
-El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 22 de agosto de 2025, los cuales corresponden a las variaciones de precios observadas durante la primera quincena de agosto de 2025.
+El Instituto Nacional de Estadística y Geografía (INEGI) publica de manera quincenal y mensual información referente al Índice Nacional de Precios al Consumidor (INPC). En este documento se presenta un resumen de los datos divulgados el 9 de septiembre de 2025, los cuales corresponden a las variaciones de precios observadas durante la segunda quincena de agosto de 2025.
 
 A continuación, se muestra una gráfica que representa la evolución histórica de los precios de los 5 productos con los mayores incrementos en la última quincena:
 
@@ -39,9 +39,9 @@ A continuación, se muestra una gráfica que representa la evolución histórica
 
 <iframe src="/btm5_aumentos_quincenales.html" width="100%" height="500" style="border:none;"></iframe>
 
-Durante la primera quincena de agosto de 2025, se observaron incrementos significativos en los precios de varios productos agropecuarios.
+Durante la segunda quincena de agosto de 2025, se observaron incrementos significativos en los precios de varios productos agropecuarios.
 
-Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: chile serrano (12.87%), limón (5.93%), nopales (5.23%), tomate verde (3.98%) y papaya (3.80%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: chayote (-13.10%), jitomate (-8.78%), plátanos (-4.15%), uva (-3.49%) y zanahoria (-2.78%). 
+Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron un incremento quincenal importante en precios fueron: chile serrano (37.07%), tomate verde (22.82%), cebolla (8.57%), piña (6.88%) y vísceras de res (3.93%). Los productos del subíndice de “Alimentos y bebidas no alcohólicas” que registraron una reducción quincenal importante en precios fueron: chayote (-6.12%), aguacate (-5.65%), nopales (-5.29%), pepino (-4.21%) y huevo (-3.08%).
 
 <iframe src="/mayo_25_quincenal.html" width="100%" height="500" style="border:none;"></iframe>
 
@@ -64,6 +64,6 @@ Los cambios porcentuales para los productos pecuarios son:
 
 |           |   Total |   01.1 Alimentos |   022 Pollo |   031 Huevo |   018 Carne de res |   017 Carne de cerdo |
 |:----------|--------:|-----------------:|------------:|------------:|-------------------:|---------------------:|
-| Quincenal |   -0.02 |            -0.41 |       -2.47 |       -1.3  |               0.5  |                 0.09 |
-| Mensual   |    0.05 |            -0.51 |       -5.2  |        3.67 |               0.31 |                 0.08 |
-| Anual     |    3.49 |             2.19 |        4.36 |        8.54 |              17.58 |                 3.63 |
+| Quincenal |    0.1  |             0    |       -1.59 |       -3.08 |               0.53 |                -0.03 |
+| Mensual   |    0.07 |            -0.4  |       -4.02 |       -4.34 |               1.03 |                 0.07 |
+| Anual     |    3.65 |             3.05 |        4.44 |        1.62 |              17.9  |                 3.86 |

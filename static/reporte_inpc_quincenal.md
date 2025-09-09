@@ -1,6 +1,6 @@
 /content/drive/MyDrive/INPC/# 📊 Reporte de Variación Quincenal - Índice de Precios
 
-**Fecha más reciente:** Primera Quincena Aug 2025
+**Fecha más reciente:** Segunda Quincena Aug 2025
 **Base:** INPC, CCIF 2018 — Categoría: `01.1 Alimentos`
 
 ---
@@ -9,11 +9,11 @@
 
 | Producto | Variación (%) |
 |----------|----------------:|
-| 065 Chile serrano | 12.87% |
-| 048 Limón | 5.93% |
-| 072 Nopales | 5.23% |
-| 076 Tomate verde | 3.98% |
-| 052 Papaya | 3.80% |
+| 065 Chile serrano | 37.07% |
+| 076 Tomate verde | 22.82% |
+| 061 Cebolla | 8.57% |
+| 054 Piña | 6.88% |
+| 025 Vísceras de res | 3.93% |
 
 ---
 
@@ -21,8 +21,8 @@
 
 | Producto | Variación (%) |
 |----------|----------------:|
-| 062 Chayote | -13.10% |
-| 070 Jitomate | -8.78% |
-| 055 Plátanos | -4.15% |
-| 057 Uva | -3.49% |
-| 078 Zanahoria | -2.78% |
+| 062 Chayote | -6.12% |
+| 045 Aguacate | -5.65% |
+| 072 Nopales | -5.29% |
+| 075 Pepino | -4.21% |
+| 031 Huevo | -3.08% |
